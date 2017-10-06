@@ -5,6 +5,7 @@ body{
   color: black;
   font-size: 16px;
   font-weight: bold;
+  background-color: #D5CFE1;
 font-family: 'Open Sans', sans-serif;}
 
 
@@ -21,6 +22,7 @@ font-family: 'Catamaran', sans-serif;;
   font-weight: bold;
   font-size: 25px;
 }
+
 a {
   color: #70A288;
 }
